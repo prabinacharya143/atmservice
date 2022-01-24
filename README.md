@@ -21,7 +21,7 @@ java -jar atmservice-0.0.1-SNAPSHOT.jar"
 ```
 * Docker run
 ```shell
- docker run -d --name bootdocker -p 8081:8081 bootdocker:1
+ docker run -d --name bootdocker -p 8080:8080 bootdocker:1
 ```
   
 

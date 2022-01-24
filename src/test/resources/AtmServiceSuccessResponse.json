@@ -1,0 +1,24 @@
+{
+  "ATM": [
+    {
+      "Identification": "LFFFBC11",
+      "SupportedCurrencies": [
+        "GBP"
+      ],
+      "Location": {
+        "PostalAddress": {
+          "AddressLine": [
+            "1 VICTORIA ROAD;"
+          ],
+          "StreetName": "1 VICTORIA ROAD",
+          "TownName": "CONSETT",
+          "CountrySubDivision": [
+            "COUNTY DURHAM"
+          ],
+          "Country": "GB",
+          "PostCode": "DH8 5AE"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "meta":{
+    "LastUpdated":"2022-01-07T11:11:28.045Z",
+    "TotalResults":1918,
+    "Agreement":"Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
+    "License":"https://www.openbanking.org.uk/open-licence",
+    "TermsOfUse":"https://www.openbanking.org.uk/terms"
+  },
+  "data":[
+    {
+      "Brand":[
+        {
+          "BrandName":"Lloyds Bank",
+          "ATM":[
+            {
+              "Identification":"LFFFBC11",
+              "SupportedCurrencies":[
+                "GBP"
+              ],
+              "Location":{
+                "PostalAddress":{
+                  "AddressLine":[
+                    "1 VICTORIA ROAD;"
+                  ],
+                  "StreetName":"1 VICTORIA ROAD",
+                  "TownName":"CONSETT",
+                  "CountrySubDivision":[
+                    "COUNTY DURHAM"
+                  ],
+                  "Country":"GB",
+                  "PostCode":"DH8 5AE"
+                }
+              }
+            },
+            {
+              "Identification":"LFFFAC11",
+              "SupportedCurrencies":[
+                "GBP"
+              ],
+              "Location":{
+                "PostalAddress":{
+                  "AddressLine":[
+                    "1 VICTORIA ROAD;"
+                  ],
+                  "StreetName":"1 VICTORIA ROAD",
+                  "TownName":"CONSETT",
+                  "CountrySubDivision":[
+                    "COUNTY DURHAM"
+                  ],
+                  "Country":"GB",
+                  "PostCode":"DH8 5AE"
+                }
+              }
+            },
+            {
+              "Identification":"LFFEHC11",
+              "SupportedCurrencies":[
+                "GBP"
+              ],
+              "Location":{
+                "PostalAddress":{
+                  "AddressLine":[
+                    "17 ELLISON WALK;"
+                  ],
+                  "StreetName":"17 ELLISON WALK",
+                  "TownName":"GATESHEAD",
+                  "CountrySubDivision":[
+                    "TYNE AND WEAR"
+                  ],
+                  "Country":"GB",
+                  "PostCode":"NE8 1BF"
+                }
+              }
+            },
+            {
+              "Identification":"LFFDHC11",
+              "SupportedCurrencies":[
+                "GBP"
+              ],
+              "Location":{
+                "PostalAddress":{
+                  "AddressLine":[
+                    "PRIESTPOPPLE;"
+                  ],
+                  "StreetName":"PRIESTPOPPLE",
+                  "TownName":"HEXHAM",
+                  "CountrySubDivision":[
+                    "NORTHUMBERLAND"
+                  ],
+                  "Country":"GB",
+                  "PostCode":"NE46 1PA"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
